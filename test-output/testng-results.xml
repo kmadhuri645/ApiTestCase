@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-13T12:05:09 IST" name="Default suite" finished-at="2024-08-13T12:05:10 IST" duration-ms="1184">
+  <suite started-at="2024-08-13T13:35:42 IST" name="Default suite" finished-at="2024-08-13T13:35:44 IST" duration-ms="2169">
     <groups>
     </groups>
-    <test started-at="2024-08-13T12:05:09 IST" name="Default test" finished-at="2024-08-13T12:05:10 IST" duration-ms="1184">
-      <class name="com.comcast.ninzaHrm.addSingleProjectWithCreated">
-        <test-method is-config="true" signature="configBS()[pri:0, instance:com.comcast.ninzaHrm.addSingleProjectWithCreated@1750fbeb]" started-at="2024-08-13T12:05:08 IST" name="configBS" finished-at="2024-08-13T12:05:09 IST" duration-ms="852" status="PASS">
+    <test started-at="2024-08-13T13:35:42 IST" name="Default test" finished-at="2024-08-13T13:35:44 IST" duration-ms="2169">
+      <class name="com.comcast.ninzaHrm.addProjectWitONGoingStatus">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.comcast.ninzaHrm.addProjectWitONGoingStatus@1750fbeb]" started-at="2024-08-13T13:35:41 IST" name="configBS" finished-at="2024-08-13T13:35:42 IST" duration-ms="1060" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBS -->
-        <test-method signature="HRM_API_01()[pri:0, instance:com.comcast.ninzaHrm.addSingleProjectWithCreated@1750fbeb]" started-at="2024-08-13T12:05:09 IST" name="HRM_API_01" finished-at="2024-08-13T12:05:10 IST" duration-ms="1140" status="PASS">
+        <test-method signature="HRM_API_02()[pri:0, instance:com.comcast.ninzaHrm.addProjectWitONGoingStatus@1750fbeb]" started-at="2024-08-13T13:35:42 IST" name="HRM_API_02" finished-at="2024-08-13T13:35:44 IST" duration-ms="2117" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- HRM_API_01 -->
-        <test-method is-config="true" signature="configAS()[pri:0, instance:com.comcast.ninzaHrm.addSingleProjectWithCreated@1750fbeb]" started-at="2024-08-13T12:05:10 IST" name="configAS" finished-at="2024-08-13T12:05:10 IST" duration-ms="9" status="PASS">
+        </test-method> <!-- HRM_API_02 -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.comcast.ninzaHrm.addProjectWitONGoingStatus@1750fbeb]" started-at="2024-08-13T13:35:44 IST" name="configAS" finished-at="2024-08-13T13:35:44 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAS -->
-      </class> <!-- com.comcast.ninzaHrm.addSingleProjectWithCreated -->
+      </class> <!-- com.comcast.ninzaHrm.addProjectWitONGoingStatus -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
