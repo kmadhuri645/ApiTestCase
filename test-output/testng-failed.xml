@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.comcast.ninzaHrm.addProjectWitONGoingStatus">
+      <class name="com.comcast.ninzaHrm.addDuplicateProject">
         <methods>
+          <include name="HRM_API_04"/>
           <include name="configAS"/>
           <include name="configBS"/>
-          <include name="HRM_API_02"/>
         </methods>
-      </class> <!-- com.comcast.ninzaHrm.addProjectWitONGoingStatus -->
+      </class> <!-- com.comcast.ninzaHrm.addDuplicateProject -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
